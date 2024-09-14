@@ -1,2 +1,2 @@
 # Gesture-Phase-Segmentation
-NNDL-Final Project
+Neural Networks and Deep Learning Final Project
